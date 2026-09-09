@@ -88,3 +88,107 @@ version when useful.
     -   2 concise bullets
 -   For Technical Skills, keep all category labels consistently aligned
     using a fixed-width `tabular` layout if needed.
+# 🚀 Future Features Roadmap
+
+Features planned for future versions of the personal profile / link-in-bio website.
+
+---
+
+## 🎨 1. Background System
+
+- [ ] Multiple background images
+- [ ] Background selector
+- [ ] Instant background switching
+- [ ] Save selected background with localStorage
+- [ ] Random background option
+- [ ] Automatic background rotation
+- [ ] ImageKit optimization for backgrounds
+
+---
+
+## 🖼️ 2. Profile Customization
+
+- [ ] Change profile picture
+- [ ] Change profile name
+- [ ] Change username
+- [ ] Change bio
+- [ ] Profile picture animations
+- [ ] Different profile-picture shapes
+- [ ] Profile picture border customization
+
+---
+
+## 🎭 3. Theme System
+
+- [ ] Dark theme
+- [ ] Light theme
+- [ ] Glassmorphism theme
+- [ ] Minimal theme
+- [ ] Neon theme
+- [ ] Custom theme colors
+- [ ] Button style selector
+- [ ] Border-radius selector
+- [ ] Blur/intensity controls
+
+---
+
+## 🔗 4. Social Links
+
+- [ ] Add unlimited social links
+- [ ] Reorder social links
+- [ ] Enable/disable individual links
+- [ ] Custom link names
+- [ ] Custom icons
+- [ ] Link animations
+- [ ] Link hover effects
+- [ ] Featured/pinned link
+
+---
+
+## 📱 5. Responsive Experience
+
+- [ ] Mobile optimization
+- [ ] Tablet optimization
+- [ ] Desktop optimization
+- [ ] Large-screen layout
+- [ ] Better background positioning
+- [ ] Touch-friendly interactions
+- [ ] Smooth responsive transitions
+
+---
+
+## ✨ 6. Animations
+
+- [ ] Page-load animation
+- [ ] Profile animation
+- [ ] Button entrance animation
+- [ ] Hover animations
+- [ ] Background transitions
+- [ ] Smooth scrolling
+- [ ] Micro-interactions
+- [ ] Reduced-motion accessibility support
+
+---
+
+## ⚙️ 7. Customization Panel
+
+Future UI:
+
+```text
+┌─────────────────────────┐
+│       Customize         │
+├─────────────────────────┤
+│ Background              │
+│ [ Cyber ] [ Nature ]    │
+│                         │
+│ Theme                   │
+│ [ Glass ] [ Dark ]      │
+│                         │
+│ Button Style            │
+│ [ Soft ] [ Sharp ]      │
+│                         │
+│ Blur                    │
+│ ─────────●──────        │
+│                         │
+│        Save             │
+└─────────────────────────┘
