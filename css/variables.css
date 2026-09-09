@@ -1,0 +1,22 @@
+:root {
+
+    --page-bg: #080808;
+
+    --card-width: 460px;
+
+    --card-radius: 28px;
+
+    --text-primary: #ffffff;
+
+    --text-secondary: rgba(255,255,255,0.7);
+
+    --button-bg: rgba(255,255,255,0.12);
+
+    --button-border: rgba(255,255,255,0.18);
+
+    --blur: 20px;
+
+    --transition:
+        250ms ease;
+
+}
