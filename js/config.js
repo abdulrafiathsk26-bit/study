@@ -7,7 +7,8 @@ const PROFILE_CONFIG = {
     bio: "Developer • Creator • Builder",
 
     profileImage:
-        "https://ik.imagekit.io/mina/default-image.jpg?updatedAt=1788966391506",
+              "./assets/xx.jpg",
+        // "https://ik.imagekit.io/mina/default-image.jpg?updatedAt=1788966391506",
 
     background:
         //   "./assets/x.jpg",
