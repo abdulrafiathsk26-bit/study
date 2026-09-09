@@ -7,13 +7,13 @@ const PROFILE_CONFIG = {
     bio: "Developer • Creator • Builder",
 
     profileImage:
-              "./assets/xx.jpg",
+              "./assets/images/tobi.jpg",
         // "https://ik.imagekit.io/mina/default-image.jpg?updatedAt=1788966391506",
 
     background:
-        //   "./assets/x.jpg",
+          "./assets/images/naruto_sasuke_bg.jpg",
 
-        "https://ik.imagekit.io/mina/download.jpg",
+        // "https://ik.imagekit.io/mina/download.jpg",
 
     socials: [
 
