@@ -7,11 +7,11 @@ const PROFILE_CONFIG = {
     bio: "AI & Data Science Student • Tech Explorer • Builder",
 
     profileImage:
-              "./assets/images/tobi.jpg",
+              "./assets/images/4_leaf.jpg",
         // "https://ik.imagekit.io/mina/default-image.jpg?updatedAt=1788966391506",
 
     background:
-          "./assets/images/naruto_sasuke_bg.jpg",
+          "./assets/images/dark_bg.jpeg",
 
         // "https://ik.imagekit.io/mina/download.jpg",
 
