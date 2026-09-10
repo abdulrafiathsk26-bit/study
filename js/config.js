@@ -31,7 +31,7 @@ const PROFILE_CONFIG = {
 
         {
             name: "LinkedIn",
-            url: "https://www.linkedin.com/in/abdul-rafiath-shaik/",
+            url: "https://www.linkedin.com/in/abdul-rafiath-shaik-4724613a1/",
             icon: "./assets/icons/linkedin.svg"
         },
 
