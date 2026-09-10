@@ -1,10 +1,10 @@
 const PROFILE_CONFIG = {
 
-    name: "Mansoor",
+    name: "Shaik Abdul Rafiath",
 
-    username: "@mansoorxcoder",
+    username: "@abdulrafiathsk26-bit",
 
-    bio: "Developer • Creator • Builder",
+    bio: "AI & Data Science Student • Tech Explorer • Builder",
 
     profileImage:
               "./assets/images/tobi.jpg",
@@ -25,19 +25,19 @@ const PROFILE_CONFIG = {
 
         {
             name: "GitHub",
-            url: "https://github.com/mansoorXcoder",
+            url: "https://github.com/abdulrafiathsk26-bit",
             icon: "./assets/icons/github.svg"
         },
 
         {
             name: "LinkedIn",
-            url: "https://www.linkedin.com/in/pathan-mansur-953498372/",
+            url: "https://www.linkedin.com/in/abdul-rafiath-shaik/",
             icon: "./assets/icons/linkedin.svg"
         },
 
         {
             name: "Hackerrank",
-            url: "https://www.hackerrank.com/profile/mansoor786p_edu",
+            url: "https://www.hackerrank.com/profile/abdulrafiathsk26",
             icon: "./assets/icons/hackerrank.svg"
         }
 
