@@ -19,7 +19,7 @@ const PROFILE_CONFIG = {
 
         {
             name: "Drive",
-            url: "https://drive.google.com/",
+            url: "https://drive.google.com/drive/folders/1nhJ4YyI9GYELqjv_-8j1KBWm_UiI6k-c",
             icon: "./assets/icons/googledrive.svg"
         },
 
